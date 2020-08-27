@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Colores base de El Naranjo 2020 -->
+    <color name="YellowForsythia">#FCD200</color>
+    <color name="AlluringWhite">#F0E1D0</color>
+    <color name="RedCent">#B1684A</color>
+    <color name="Heartthrob">#AD262E</color>
+
+    <!-- Colores adaptables-->>
+    <color name="overlay_color">#55333639</color>
+    <color name="dialog_header_color">#C5C5C5</color>
+    <color name="dialog_text_color">#464646</color>
+</resources>
